@@ -34,9 +34,9 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Aubrey Portwood</string>
 	<key>description</key>
-	<string></string>
+	<string>A workflow that converts any string to-this-format-with-dashes.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -154,9 +154,11 @@ echo $query;</string>
 			<integer>130</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/aubreypwd/alfred-workflow-dashit</string>
 </dict>
 </plist>
