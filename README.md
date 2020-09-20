@@ -4,7 +4,7 @@ A workflow that converts any string to-this-format-with-dashes.
 
 # Install
 
-To install head over to [releases](releases) and download the `.alfred-worflow` file and open it. Or clone this repository to your `Alfred.alfredpreferences/workflows` directory.
+To install head over to [releases](../../releases) and download the `.alfred-worflow` file and open it. Or clone this repository to your `Alfred.alfredpreferences/workflows` directory.
 
 # Changelog
 
